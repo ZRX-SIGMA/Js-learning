@@ -1,1 +1,1 @@
-console.log("Hello sir")
+console.log("Hello script tag");
